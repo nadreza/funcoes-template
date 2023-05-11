@@ -1,1 +1,1 @@
-// Acompanhe a Prática Guiada e repita o exercício no Momento de Réplica!
+// Acompanhe a Prática 
